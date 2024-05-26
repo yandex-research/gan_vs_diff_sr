@@ -1,2 +1,3 @@
-# gan_vs_diff_sr
-Does Diffusion Beat GAN in Image Super Resolution?
+# Does Diffusion Beat GAN in Image Super Resolution?
+
+The repository for inference of SR models from ... 
